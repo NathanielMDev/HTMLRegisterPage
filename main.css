@@ -30,12 +30,12 @@ header a {
     margin-right: .5rem;
     line-height: 1.5rem;
     text-decoration: none;
-    box-shadow:#76c8ff19;
 }
 
 header a:hover, form button:hover {
-    background-color: 1px 1px #1084d1;
-    cursor: pointer;
+    background-color: #13c8ff;
+    cursor:pointer;
+
 }
 
 .container {
@@ -54,6 +54,7 @@ header a:hover, form button:hover {
 .container > h1 {
     margin: 0 0 .5rem;
     text-shadow: 0px 1px whitesmoke;
+    text-align: center;
 }
 
 form input, form button {
