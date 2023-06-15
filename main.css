@@ -54,7 +54,9 @@ header a:hover, form button:hover {
 
 .container > h1 {
     margin: 0 0 .5rem;
-    text-shadow: 2px 2px 8px white;
+    color:black;
+    -webkit-text-stroke: .5 black;
+    text-shadow: 1px 1px 8px white;
     text-align: center;
 }
 
